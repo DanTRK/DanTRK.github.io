@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "In between Brescia, Mantova and Milano"
   employer         : "Politecnico di Milano"
-  uri              : "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?EVN_PRODOTTI=evento&k_doc=627636"
+  uri              : "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?EVN_PRODOTTI=evento&k_doc=627636&lang=EN&aa=2024&tab_ricerca=1"
   email            : "daniele.treccani@polimi.it" 
 
   # Academic websites
