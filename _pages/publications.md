@@ -27,8 +27,8 @@ redirect_from:
 
 ### 2024
 * **The Significance of Porches in Urban Applications: A Method for Automated Modeling and Integration** - Cao, Y., Treccani, D., Adami, A. - Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-4/W11-2024, 9-15. [Link](https://doi.org/10.5194/isprs-archives-XLVIII-4-W11-2024-9-2024)    Conference: 3D GeoInfo & EG-ICE 2024 ([website](https://3dgeoinfoeg-ice.webs.uvigo.es/3dgeoinfo))
-*  **HBIM structural model to evaluate building evolution and construction hypotheses: preliminary results** - Fazion, B., Treccani, D., Fregonese, L., Lombardini, N. - Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-2/W4-2024, 213–219. [Link](https://doi.org/10.5194/isprs-archives-XLVIII-2-W4-2024-213-2024)  />  Conference: 3D-ARCH Workshop 2024 ([website](https://3darch.fbk.eu/))
-
+* <p> **HBIM structural model to evaluate building evolution and construction hypotheses: preliminary results** - Fazion, B., Treccani, D., Fregonese, L., Lombardini, N. - Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-2/W4-2024, 213–219. [Link](https://doi.org/10.5194/isprs-archives-XLVIII-2-W4-2024-213-2024)  />  Conference: 3D-ARCH Workshop 2024 ([website](https://3darch.fbk.eu/))
+</p>
 ### 2023
 * **Lessons Learnt From The High Resolution UAS Photogrammetric Survey Of A Historic Urban Area: Unesco Site Of Sabbioneta.** - Adami, A., Treccani, D.,  Fregonese, L. -  Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-M-2-2023, 19–25. [Link](https://doi.org/10.5194/isprs-archives-XLVIII-M-2-2023-19-2023)    Conference: CIPA 2023 Symposium ([website](https://www.cipa2023florence.org/))
 * **HBIM Approach For Heritage Protection: First Experiences For A Dedicated Training.** - Adami, A., Scala, B., Treccani, D., Dufour, N.,  Papandrea, K. - Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-M-2-2023, 11–18. [Link](https://doi.org/10.5194/isprs-archives-XLVIII-M-2-2023-11-2023)   Conference: CIPA 2023 Symposium ([website](https://www.cipa2023florence.org/))
