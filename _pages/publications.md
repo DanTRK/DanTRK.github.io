@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Journal Papers
-
+* * *
 ### 2024
 
 * **Drones and Real-Time Kinematic Base Station Integration for Documenting Inaccessible Ruins: A Case Study Approach.** - Treccani, D., Adami, A., Fregonese, L. - Drones 8, no. 6: 268. 
