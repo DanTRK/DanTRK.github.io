@@ -20,6 +20,5 @@ redirect_from:
 
 ## Conference papers
 
-
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
+### 2024
+* **The Significance of Porches in Urban Applications: A Method for Automated Modeling and Integration** - Cao, Y., Treccani, D., Adami, A. - Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-4/W11-2024, 9:15. [Link](https://doi.org/10.5194/isprs-archives-XLVIII-4-W11-2024-9-2024) Conference: 3D GeoInfo & EG-ICE 2024 ([website](https://3dgeoinfoeg-ice.webs.uvigo.es/3dgeoinfo))
