@@ -11,7 +11,7 @@ redirect_from:
 
 ## Journal Papers
 
-Treccani, D., Adami, A., Fregonese, L. (2024) Drones and Real-Time Kinematic Base Station Integration for Documenting Inaccessible Ruins: A Case Study Approach" Drones 8, no. 6: 268. 
+* Treccani, D., Adami, A., Fregonese, L. (2024) Drones and Real-Time Kinematic Base Station Integration for Documenting Inaccessible Ruins: A Case Study Approach" Drones 8, no. 6: 268. 
 [Link](https://doi.org/10.3390/drones8060268)
 
 
