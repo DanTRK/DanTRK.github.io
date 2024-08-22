@@ -12,13 +12,6 @@ redirect_from:
 ## Journal Papers
 * * *
 
-* * *
-
----
-
-  _  _  _  _
-
----------------
 ### 2024
 
 * **Drones and Real-Time Kinematic Base Station Integration for Documenting Inaccessible Ruins: A Case Study Approach.** - Treccani, D., Adami, A., Fregonese, L. - Drones 8, no. 6: 268. 
@@ -32,7 +25,7 @@ redirect_from:
 
   
 ## Conference papers
-
+* * *
 ### 2024
 * **The Significance of Porches in Urban Applications: A Method for Automated Modeling and Integration** - Cao, Y., Treccani, D., Adami, A. - Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-4/W11-2024, 9-15. [Link](https://doi.org/10.5194/isprs-archives-XLVIII-4-W11-2024-9-2024)    Conference: 3D GeoInfo & EG-ICE 2024 ([website](https://3dgeoinfoeg-ice.webs.uvigo.es/3dgeoinfo))
 * **HBIM structural model to evaluate building evolution and construction hypotheses: preliminary results** - Fazion, B., Treccani, D., Fregonese, L., Lombardini, N. - Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-2/W4-2024, 213–219. [Link](https://doi.org/10.5194/isprs-archives-XLVIII-2-W4-2024-213-2024)   Conference: 3D-ARCH Workshop 2024 ([website](https://3darch.fbk.eu/))
