@@ -24,7 +24,7 @@ redirect_from:
 *  **Automating the inventory of the navigable space for pedestrians on historical sites: Towards accurate path planning.** - Treccani, D., Fernández, A, Díaz-Vilariño, L., Adami, A. - International Journal of Applied Earth Observation and Geoinformation, Volume 122. [Link](https://doi.org/10.1016/j.jag.2023.103400)
 
 ### 2021
-* **HE.SU.TECH laboratory: academic research combined with the practice applied in the documentation, representation, and preservation of the architectural heritage - the case of the Palladio villa Forni Cerato** - Adami A., Fregonese L., Vizioli S., Taffurelli L., Helder J., Rosignoli O., Treccani D. - Gestão \& Tecnologia de Projetos. [Link]( https://www.revistas.usp.br/gestaodeprojetos/article/view/172008)![image](https://github.com/user-attachments/assets/51d39124-5985-4346-ad26-47ca9dba7929)
+* **HE.SU.TECH. laboratory: academic research combined with the practice applied in the documentation, representation, and preservation of the architectural heritage - the case of the Palladio villa Forni Cerato** - Adami A., Fregonese L., Vizioli S., Taffurelli L., Helder J., Rosignoli O., Treccani D. - Gestão & Tecnologia de Projetos. [Link]( https://www.revistas.usp.br/gestaodeprojetos/article/view/172008)
 
 
   
@@ -57,5 +57,8 @@ redirect_from:
   
 * **Point cloud processing for urban accessibility management in historic context.** - Treccani, D., Adami, A., Díaz-Vilariño, L. - Proceedings of the ARQUEOLÓGICA 2.0 - 9th International Congress \& 3rd GEORES - GEOmatics and pREServation. [Link](https://doi.org/10.4995/arqueologica9.2021.13259) ||Conference: ARQUEOLÓGICA 2.0 - 9th International Congress & 3rd GEORES - GEOmatics and pREServation ([website](http://arqueo9-geores3.webs.upv.es))
 
+### 2019
  
-   
+* **Ultra light UAV systems for the metrical documentation of cultural heritage: applications for architecture and archaeology** - Adami, A., Fregonese, L., Gallo, M., Helder, J., Pepe, M., Treccani, D. - Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2/W17, 15–21. [Link](https://doi.org/10.5194/isprs-archives-XLII-2-W17-15-2019) ||Conference: 6th International Workshop LowCost 3D – Sensors, Algorithms, Applications
+ 
+* **Geometric survey data and historical sources interpretation for HBIM process: the case of Mantua cathedral façade** - Adami, A., Fregonese, L., Rosignoli, O., Scala, B., Taffurelli, L., Treccani, D. - Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2/W11, 29-35. [Link](https://doi.org/10.5194/isprs-archives-XLII-2-W11-29-2019). ||Conference: GEORES 2019 – 2nd International Conference of Geomatics and Restoration
