@@ -11,11 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D with honors in Architecture, Built environment and Construction engineering, Politecnico di Milano, 2022
-  * Main topic: Geomatics 
+* Ph.D with honors in *Architecture, Built environment and Construction engineering*, Politecnico di Milano, 2022
+  * Main Scientific-Disciplinary Sector: Geomatics 
   * Thesis title: Point cloud processing for physical accessibility evaluation in historical urban environments. The case of Unesco site of Sabbioneta. [(web repository](https://www.politesi.polimi.it/handle/10589/192194))
-* M.S. with honors in Civil and Environmental Engineering, at University of Brescia, thesis title: Geomatics and HBIM for conservation analysis and structural understanding of historical cultural heritage. The case of Mantua Cathedral facade. 2018
-* B.S. in Civil Engineering, at University of Brescia, thesis title: Padiglione Italia a Expo2015: esempio di innovazione nel rilievo 3D nel settore delle costruzioni. Tecniche e metodologie comparate. (Italian Pavilion at Expo2015: an example of innovation in 3D surveying in the construction sector. Comparative techniques and methodologies.), 2015
+* M.S. with honors in *Civil and Environmental Engineering*, University of Brescia, 2018
+  * Thesis title: Geomatics and HBIM for conservation analysis and structural understanding of historical cultural heritage. The case of Mantua Cathedral facade.
+* B.S. in *Civil Engineering*, University of Brescia, 2015
+  * Thesis title: Padiglione Italia a Expo2015: esempio di innovazione nel rilievo 3D nel settore delle costruzioni. Tecniche e metodologie comparate. (Italian Pavilion at Expo2015: an example of innovation in 3D surveying in the construction sector. Comparative techniques and methodologies.)
+
+Training
+======
+
 
 Work experience
 ======
@@ -49,7 +55,7 @@ Skills
 
 Publications
 ======
-  See the dedicated page ([link](site.pages/publications.md))
+  See the dedicated page ([link](/publicationV2/))
   
 Talks
 ======
@@ -59,9 +65,7 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
