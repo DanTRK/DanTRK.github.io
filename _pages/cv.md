@@ -55,7 +55,7 @@ Skills
 
 Publications
 ======
-  See the dedicated page ([link](/publicationV2/))
+  See the dedicated page ([link](site.publications.md))
   
 Talks
 ======
