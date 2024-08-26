@@ -11,17 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D with honors in Architecture, Built environment and Construction engineering, at Politecnico di Milano, main topic: Geomatics, thesis title: Point cloud processing for physical accessibility evaluation in historical urban environments. The case of Unesco site of Sabbioneta. [pdf](https://www.politesi.polimi.it/handle/10589/192194), 2022
+* M.S. with honors in Civil and Environmental Engineering, at University of Brescia, thesis title: Geomatics and HBIM for conservation analysis and structural understanding of historical cultural heritage. The case of Mantua Cathedral facade. 2018
+* B.S. in Civil Engineering, at University of Brescia, thesis title: Padiglione Italia a Expo2015: esempio di innovazione nel rilievo 3D nel settore delle costruzioni. Tecniche e metodologie comparate. (Italian Pavilion at Expo2015: an example of innovation in 3D surveying in the construction sector. Comparative techniques and methodologies.), 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Since 2023: Researcher Full Time
+  * Politecnico di Milano, Department of Architecture, Built environment, and Construction engineering
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Research Title: 
 
+* Since 2018: Member of UNESCO Research Lab ([website](https://www.unescolab.mantova.polimi.it/)) at Mantova Campus
+* Duties includes: 
+*
+*
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
@@ -43,9 +47,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  See the dedicated page ([link](site.pages/publications.md))
   
 Talks
 ======
