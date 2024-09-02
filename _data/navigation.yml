@@ -6,7 +6,7 @@
 
 main:
   - title: "News"
-    url: //
+    url: /year-archive/
   
   - title: "Publications"
     url: /publicationsV2/
