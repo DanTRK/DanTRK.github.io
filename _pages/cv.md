@@ -61,7 +61,7 @@ See the [dedicated page](publications.md)
   
 Teaching
 ======
-*  Teaching assignment for the integrated teaching of TOPOGRAPHY, in the course [TOPOGRAPHY AND DIGITAL SURVEY](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=834024&lang=IT&__pj0=0&__pj1=b2811784d9742ed11ffa262865d4e317), of the three-year degree course in Building and Construction Engineering of the School of Urban Architecture and Construction Engineering of the Politecnico di Milano. (academic years 2023/2024 and 2024/2025)
+*  Teaching (lecturer) for the integrated teaching of TOPOGRAPHY, in the course TOPOGRAPHY AND DIGITAL SURVEY, of the three-year degree course in Building and Construction Engineering of the School of Urban Architecture and Construction Engineering of the Politecnico di Milano. (academic years 2023/2024 and 2024/2025)
 *  Teaching (lecturer) for the integrated teaching of REPRESENTATION TECHNIQUES, in the course LABORATORY OF ARCHITECTURAL DESIGN 1, of the three-year degree course in Architecture Design of the School of Architecture Urban Planning and Construction Engineering of the Politecnico di Milano. (academic years 2023/2024 and 2024/2025)
 *  Teaching assistance and tutoring activities in the courses ‘Advanced Survey Techniques’, ‘Rilievo dell'architettura and ‘Advanced survey and representation techniques’ of School of Architecture Urban Planning Construction Engineering of the Politecnico di Milano. (years from 2019 to 2023) 
 
