@@ -7,12 +7,15 @@
 main:
   - title: "News"
     url: /year-archive/
-  
+
+  - title: "Research activities" 
+    url: //
+    
   - title: "Publications"
     url: /publicationsV2/
 
   - title: "Talks and conferences"
-    url: /talks/        
+    url: /talks/   
         
   - title: "CV"
     url: /cv/
