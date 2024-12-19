@@ -10,8 +10,8 @@ var addressPoints = [
     12.340385336681752
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Terracorpo Castle - survey - Caserta",
+    41.31368532635118,
+    14.030226252700746
   ]
 ];
