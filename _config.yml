@@ -21,7 +21,7 @@ repository               : "DanTRK/DanTRK.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilepic.jpeg"
   name             : "Daniele Treccani"
   pronouns         : "he/him"  
   bio              : "Researcher and passionate on Geomatics and Cultural Heritage"
