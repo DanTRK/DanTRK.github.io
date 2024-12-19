@@ -18,5 +18,10 @@ var addressPoints = [
     "St. Andrea Basilica - survey - Mantova",
     45.15890448277335,
     10.794386115742203
+  ],
+  [
+    "St. Peter Cathedral - survey - Mantova",
+    45.16061990202021,
+    10.79731519431784
   ]
 ];
