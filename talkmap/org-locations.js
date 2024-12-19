@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "St. Mark Basilica and Ducale Palace - Venice",
+    "St. Mark Basilica - Venice",
     45.434487,
     12.33961
   ],
