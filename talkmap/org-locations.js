@@ -1,9 +1,5 @@
 var addressPoints = [
   [
-    "St. Mark Basilica - Venice",
-    45.434487,
-    12.33961
-  ],
   [
     "London, UK - Towe Bridge survey",
     51.5073219,
