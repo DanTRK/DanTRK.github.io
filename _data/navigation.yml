@@ -7,9 +7,6 @@
 main:
   - title: "News"
     url: /year-archive/
-
-  - title: "Research activities" 
-    url: /underconstruction/
     
   - title: "Publications"
     url: /publicationsV2/
@@ -21,6 +18,6 @@ main:
     url: /cv/
 
 
-  - title: "CV2"
+  - title: "WorkMap"
     url: /map/
 
