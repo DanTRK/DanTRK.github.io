@@ -12,7 +12,7 @@ main:
     url: /publicationsV2/
 
   - title: "Talks and conferences"
-    url: /talk/   
+    url: /talks/   
         
   - title: "CV"
     url: /cv/
