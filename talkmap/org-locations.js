@@ -5,9 +5,9 @@ var addressPoints = [
     12.339742056404038
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Ducale Palace - survey - Venice",
+    45.43372299423483,
+    12.340385336681752
   ],
   [
     "Los Angeles, CA",
