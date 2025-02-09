@@ -43,5 +43,40 @@ var addressPoints = [
     "LowCost 3D workshop 2024 (Brescia) - conference",
     45.54408159222205,
     10.218860585195127
-  ]
+  ],
+  [
+    "Cortile della Cavallerizza (Mantova) - survey 2018",
+    45.15992807780407,
+    10.799964196254171
+  ],
+  [
+    "Camera degli sposi (Mantova) - 2020 survey",
+    45.161124658603605,
+    10.800016182953703
+  ],
+  [
+    "Holy Sepulchre Church (Jerusalem) - survey+HBIM 2021",
+    31.77850737603422,
+    35.229602399546174
+  ],
+  [
+    "Tempio di San Sebastiano (Mantova) - survey 2019",
+    45.15105091074389,
+    10.788113953848386
+  ],
+  [
+    "GeoAI 2024 (Trento) - Conference",
+    46.06694048848798,
+    11.15135493340209
+  ],
+  [
+    "GeoAI 2023 (Torino) - onference",
+    45.06756453176935,
+    7.6563545658953736
+  ],
+  [
+    "SCANNER Workshop 2024 (Pogoni) - Summer school",
+    40.03377260361343,
+    20.43838405057237
+  ] 
 ];
