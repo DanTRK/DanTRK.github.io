@@ -78,5 +78,25 @@ var addressPoints = [
     "SCANNER Workshop 2024 (Pogoni) - Summer school",
     40.03377260361343,
     20.43838405057237
-  ] 
+  ],
+  [
+    "H-BI(M)ON 2025 (Parma) - Conference",
+    44.766296679678184,
+    10.309571287812796
+  ],
+  [
+    "ISPRS Congress 2022 (Nice) - Conference",
+    43.70412963680531,
+    7.280434813422904
+  ],
+  [
+    "CIPA Symposium 2023 (Florence) - Conference",
+    43.80098301727668,
+    11.245345697490501
+  ],
+  [
+    "Point Cloud Processing PCP workshop 2019 (Stuttgart) - Conference",
+    48.74573947433458,
+    9.108518254847908
+  ]
 ];
