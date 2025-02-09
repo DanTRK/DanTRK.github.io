@@ -8,6 +8,6 @@ date: 2025-01-30
 location: "Parma (Italy)"
 ---
 
-[More information here]([https://www.linkedin.com/posts/daniele-treccani-029a49179_lowcost3d-research-innovation-activity-7275517302102515712-1lHf?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/daniele-treccani-029a49179_hbim-heritageconservation-digitaltwin-activity-7294481038393679872-HvSr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpVyOEBSFguOHOQO2O2qM1V65Nmk-xVbbw))
+[More information here](https://www.linkedin.com/posts/daniele-treccani-029a49179_hbim-heritageconservation-digitaltwin-activity-7294481038393679872-HvSr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpVyOEBSFguOHOQO2O2qM1V65Nmk-xVbbw)
 
 
