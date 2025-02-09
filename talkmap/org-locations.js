@@ -98,5 +98,60 @@ var addressPoints = [
     "Point Cloud Processing PCP workshop 2019 (Stuttgart) - Conference",
     48.74573947433458,
     9.108518254847908
-  ]
+  ],
+  [
+    "AI4CH ARTIFICIAL INTELLIGENCE IN GEOMATICS FOR CULTURAL HERITAGE (Turin) - Conference",
+    45.05353705867574,
+    7.686619104065213
+  ],
+  [
+    "Palazzo dell'Arengario (Monza) - survey 2021",
+    45.584510534261476,
+    9.275199938165667
+  ],
+  [
+    "3D-Arch 2022 (Mantova) - Conference",
+    45.156793221796455,
+    10.781965400912256
+  ],
+  [
+    "Roman villa (Negrar di Valpolicella) - survey 2022",
+    45.53834196254279,
+    10.945243452280152
+  ],
+  [
+    "San Giovanni Evangelista Church (Parma) - survey 2022",
+    44.80285747339115,
+    10.332623336224444
+  ],
+  [
+    "San Michele Maggiore Church (Pavia) - survey 2023",
+    45.18221154374779,
+    9.156673292021898
+  ],
+  [
+    "MMT 2023 - 2TH INTERNATIONAL SYMPOSIUM ON MOBILE MAPPING TECHNOLOGY (Padova) - Conference",
+    45.408661024379434,
+    11.881896761153302
+  ],
+  [
+    "San Nicola Church (Castellaro Lagusello) - survey 2023",
+    45.37299925215895,
+    10.635733806947735
+  ],
+  [
+    "Sabbioneta historic disctrict - survey 2022/2023",
+    44.998129410443035,
+    10.489554071558192
+  ],
+  [
+    "3D-ARCH 2024 (Siena) - Conference",
+    43.315274322812286,
+    11.338807597342935
+  ],
+  [
+    "Villa Mirabellino (Monza) - survey 2024",
+    45.60474869468971,
+    9.276176244129198
+  ] 
 ];
