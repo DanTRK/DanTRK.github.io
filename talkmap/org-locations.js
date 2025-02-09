@@ -30,11 +30,6 @@ var addressPoints = [
     7.328146064419771
   ],
   [
-    "Sabbioneta - survey 2020",
-    44.99828742870856,
-    10.490998510533982
-  ],
-  [
     "3D Geoinfo 2024 (Vigo) - conference",
     42.22740397951454,
     -8.734829634395538
@@ -100,7 +95,7 @@ var addressPoints = [
     9.108518254847908
   ],
   [
-    "AI4CH ARTIFICIAL INTELLIGENCE IN GEOMATICS FOR CULTURAL HERITAGE (Turin) - Conference",
+    "AI4CH Artificial Intelligence in Geomatics for Cultural Heritage 2019 (Turin) - Conference",
     45.05353705867574,
     7.686619104065213
   ],
@@ -140,7 +135,7 @@ var addressPoints = [
     10.635733806947735
   ],
   [
-    "Sabbioneta historic disctrict - survey 2022/2023",
+    "Sabbioneta historic disctrict - survey 2020/2023",
     44.998129410443035,
     10.489554071558192
   ],
