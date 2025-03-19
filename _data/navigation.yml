@@ -6,7 +6,7 @@
 
 main:
   - title: "News"
-    url: /year-archive/
+    url: /underconstruction/
     
   - title: "Publications"
     url: /publicationsV2/
