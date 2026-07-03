@@ -310,7 +310,7 @@ var addressPoints = [
     8.213200
   ],
   [
-    "PNRR TNE EDU GPS Education (Sao Carlos, Brazil) - academic activities 2026",
+    "PNRR TNE EDU GPS Education (Sqo Carlos, Brazil) - academic activities 2026",
     -22.005832,
     -47.891945
   ],
