@@ -25,17 +25,17 @@ var addressPoints = [
     10.794378
   ],
   [
-    "St. Peter Cathedral (Mantova) - survey+HBIM 2018",
+    "St. Peter Cathedral (Mantova) - survey and HBIM 2018",
     45.16061990202021,
     10.79731519431784
   ],
   [
-    "Arc of Augusto (Aosta) - survey+HBIM 2019",
+    "Arc of Augusto (Aosta) - survey and HBIM 2019",
     45.739321019117064,
     7.328146064419771
   ],
   [
-    "Holy Sepulchre Church (Jerusalem) - survey+HBIM 2021",
+    "Holy Sepulchre Church (Jerusalem) - survey and HBIM 2021",
     31.77850737603422,
     35.229602399546174
   ],
@@ -70,7 +70,7 @@ var addressPoints = [
     9.275199938165667
   ],
   [
-    "Villa Mirabellino (Monza) - survey 2024",
+    "Villa Mirabellino (Monza) - survey 2025",
     45.60474869468971,
     9.276176244129198
   ],
@@ -155,7 +155,7 @@ var addressPoints = [
     10.693700
   ],
   [
-    "Forte Sofia (Verona) - thesis case study",
+    "Forte Sofia (Verona) - survey",
     45.453800,
     10.988400
   ],
@@ -165,19 +165,9 @@ var addressPoints = [
     11.568900
   ],
   [
-    "Padiglione Italia Expo 2015 (Milan) - bachelor thesis",
-    45.518407,
-    9.101213
-  ],
-  [
-    "University of Brescia (Brescia) - education/seminars",
+    "University of Brescia (Brescia) - invited seminars 2022/2025",
     45.540400,
     10.219900
-  ],
-  [
-    "IIS G. Bonsignori (Remedello) - education",
-    45.278700,
-    10.372500
   ],
   [
     "Politecnico di Milano, Mantova Campus - research/teaching/events",
@@ -185,173 +175,153 @@ var addressPoints = [
     10.781965400912256
   ],
   [
-    "Politecnico di Milano, Milan - teaching/OpenTalks",
-    45.478100,
-    9.227700
-  ],
-  [
     "University of Vigo (Vigo) - research stay 2021",
     42.169900,
     -8.686900
   ],
   [
-    "Centro Conservazione e Restauro La Venaria Reale (Venaria Reale) - research collaboration",
-    45.135900,
-    7.626000
-  ],
-  [
-    "3D GeoInfo 2025 (Tokyo) - scientific committee",
-    35.713700,
-    139.762200
-  ],
-  [
-    "CIPA Symposium 2025 (Seoul) - conference",
+    "CIPA Symposium 2025 (Seoul) - conference speaker, session chairman",
     37.523900,
     126.980300
   ],
   [
-    "SIFET Conference 2025 (Brindisi) - conference",
+    "SIFET Conference 2025 (Brindisi) - conference speaker",
     40.632700,
     17.941800
   ],
   [
-    "H-BI(M)ON 2025 (Parma) - conference",
+    "H-BI(M)ON 2025 (Parma) - conference speaker",
     44.766296679678184,
     10.309571287812796
   ],
   [
-    "LowCost 3D Workshop 2024 (Brescia) - conference",
+    "LowCost 3D Workshop 2024 (Brescia) - conference speaker",
     45.54408159222205,
     10.218860585195127
   ],
   [
-    "3D GeoInfo 2024 (Vigo) - conference",
+    "3D GeoInfo 2024 (Vigo) - conference speaker, session chairman",
     42.22740397951454,
     -8.734829634395538
   ],
   [
-    "SCANNER Workshop 2024/2025 (Pogoni) - summer school",
+    "SCANNER Workshop 2024/2025 (Pogoni) - summer school tutor",
     40.03377260361343,
     20.43838405057237
   ],
   [
-    "3D-ARCH 2024 (Siena) - conference",
+    "3D-ARCH 2024 (Siena) - conference speaker",
     43.315274322812286,
     11.338807597342935
   ],
   [
-    "Digital Heritage 2025 (Siena) - conference",
-    43.315274322812286,
-    11.338807597342935
-  ],
-  [
-    "GeoAI 2024 (Trento) - conference",
+    "GeoAI 2024 (Trento) - conference attendance",
     46.06694048848798,
     11.15135493340209
   ],
   [
-    "GeoAI 2023 (Torino) - conference",
+    "GeoAI 2023 (Torino) - conference speaker",
     45.06756453176935,
     7.6563545658953736
   ],
   [
-    "CIPA Symposium 2023 (Florence) - conference",
+    "CIPA Symposium 2023 (Florence) - conference speaker, session chairman",
     43.80098301727668,
     11.245345697490501
   ],
   [
-    "MMT 2023 - 12th International Symposium on Mobile Mapping Technology (Padova) - conference",
+    "MMT 2023 - 12th International Symposium on Mobile Mapping Technology (Padova) - conference speaker",
     45.408661024379434,
     11.881896761153302
   ],
   [
-    "ISPRS Congress 2022 (Nice) - conference",
+    "ISPRS Congress 2022 (Nice) - conference speaker",
     43.70412963680531,
     7.280434813422904
   ],
   [
-    "3D-ARCH 2022 (Mantova) - conference",
+    "3D-ARCH 2022 (Mantova) - conference speaker",
     45.156793221796455,
     10.781965400912256
   ],
   [
-    "ARQUEOLOGICA 2.0 & GEORES 2021 (Valencia) - virtual conference",
-    39.469900,
-    -0.376300
-  ],
-  [
-    "CIPA Symposium 2021 (Beijing) - virtual/hybrid conference",
-    39.904200,
-    116.407400
-  ],
-  [
-    "2GG 2019 (Venice) - conference",
+    "2GG 2019 (Venice) - conference speaker",
     45.434594535890966,
     12.339742056404038
   ],
   [
-    "2GG 2019 (Genova) - conference",
-    44.407100,
-    8.933900
-  ],
-  [
-    "3D-ARCH 2019 (Bergamo) - conference",
+    "3D-ARCH 2019 (Bergamo) - conference attendance",
     45.698300,
     9.677300
   ],
   [
-    "ISPRS Technical Commission II Symposium 2018 (Riva del Garda) - conference",
+    "ISPRS Technical Commission II Symposium 2018 (Riva del Garda) - conference attendance",
     45.889200,
     10.843100
   ],
   [
-    "Point Cloud Processing PCP Workshop 2019 (Stuttgart) - conference",
+    "Point Cloud Processing PCP Workshop 2019 (Stuttgart) - conference attendance",
     48.74573947433458,
     9.108518254847908
   ],
   [
-    "AI4CH Artificial Intelligence in Geomatics for Cultural Heritage 2019 (Turin) - conference",
+    "AI4CH Artificial Intelligence in Geomatics for Cultural Heritage 2019 (Turin) - conference attendance",
     45.05353705867574,
     7.686619104065213
   ],
   [
-    "T Hotel (Cagliari) - invited seminar 2024",
+    "T Hotel (Cagliari) - invited speaker seminar 2024",
     39.232200,
     9.120500
   ],
   [
-    "Museo Diocesano Arborense (Oristano) - invited lecture 2025",
+    "Museo Diocesano Arborense (Oristano) - invited lecturer 2025",
     39.903000,
     8.592100
   ],
   [
-    "Palazzo Barbieri (Verona) - exhibition 2023/2024",
+    "Palazzo Barbieri (Verona) - exposure at the exhibition 2023/2024",
     45.438600,
     10.993300
   ],
   [
-    "San Benedetto Po (Mantova) - Architetture d'Acqua exhibition 2022",
+    "San Benedetto Po (Mantova) - exposure at the exhibition Architetture d'Acqua 2022",
     45.039100,
     10.928100
   ],
   [
-    "Startup Weekend Mantova 2025 (Mantova) - event",
+    "Startup Weekend Mantova 2025 (Mantova) - member of the jury",
     45.156793221796455,
     10.781965400912256
   ],
   [
-    "Research and the City (Mantova) - event 2023",
+    "Research and the City (Mantova) - participant at the event 2023",
     45.160000,
     10.797000
   ],
   [
-    "Spring School Interactive 3D Museums (Bene Vagienna) - training 2019",
+    "Spring School Interactive 3D Museums (Bene Vagienna) - training activities (student) 2019",
     44.543200,
     7.828400
   ],
   [
-    "Laboratory of Places Summer School (Ghesc) - training 2017",
+    "Laboratory of Places Summer School (Ghesc) - training activities (student) 2017",
     46.202900,
     8.213200
+  ],
+  [
+    "PNRR TNE EDU GPS Education (São Carlos, Brazil) - academic activities 2026",
+    -22.005832,
+    -47.891945
+  ],
+  [
+    "PNRR TNE EDU GPS Education (Campinas, Brazil) - academic activities 2026",
+    -22.905560,
+    -47.060830
+  ],
+  [
+    "PNRR TNE EDU GPS Education (São Paulo, Brazil) - academic and cultural activities 2026",
+    -23.550520,
+    -46.633308
   ]
 ];
