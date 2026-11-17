@@ -1,19 +1,31 @@
 ---
 permalink: /
-title: "About me"
+title: "Daniele Treccani"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-As a researcher at Politecnico di Milano, my work focuses on the many aspects of Geomatics, including the integration of drones, photogrammetry, laser-scanning, mobile mapping systems, and other advanced technologies mainly to enhance urban accessibility and historic heritage preservation. Based at the UNESCO Research Lab at the Mantova Campus, I focus on spatial data analysis, also exploiting artificial intelligence to tackle the challenges of making historical city centers more accessible and inclusive. I am passionate about leveraging these tools to develop innovative solutions that make urban environments more inclusive, ensuring that both residents and visitors can experience our cities with ease. 
+I am a full-time fixed-term researcher in Geomatics (CEAR-04/A) at the [Politecnico di Milano](https://www.polimi.it/), Department of Architecture, Built Environment and Construction Engineering, and a member of the [UNESCO Research Lab](https://www.unescolab.mantova.polimi.it/) at the Mantova Campus. My work brings together geomatics, spatial data science and cultural heritage to document, understand and improve historic environments.
 
-I have participated in numerous research projects, including significant work on iconic sites such as the Basilica of San Marco in Venice and the Basilica of the Holy Sepulchre in Jerusalem. Additionally, I am involved in innovative initiatives like the Hydrogen Valley project in Mantova, which aims to integrate sustainable energy solutions into urban planning, or the ACROSS project, which is studying the generation of dynamic database on accessibility management in urban historic areas. My goal is to merge cutting-edge technology with cultural heritage conservation, contributing to the development of more sustainable and accessible cities. 
+My research focuses on the integration of terrestrial laser scanning, UAS photogrammetry, mobile mapping, GNSS and total-station surveys. I turn these data into reliable 3D models, HBIM and digital-twin workflows, with particular attention to physical accessibility in historic urban areas.
 
-Beyond research, I am also passionate about teaching. I am a lecturer at the AUIC School of Politecnico di Milano, where I teach courses in the Bachelor of Architectural Design program and Building and Construction Engineering program. Additionally, I collaborate in international summer schools and contribute to teaching activities in various courses in Mantova, further extending my engagement in education and knowledge sharing.
+## Research interests
 
-![image](/images/e4202dee-5a93-4220-9aae-7e7fc7197c55.jpg)
+<div class="research-grid">
+  <div><strong>Digital heritage</strong><br>3D documentation, HBIM and scan-to-BIM workflows for historic buildings and urban landscapes.</div>
+  <div><strong>Accessible historic cities</strong><br>Spatial inventories and evidence-based methods for inclusive routes and public spaces.</div>
+  <div><strong>Geospatial AI</strong><br>Point-cloud processing, semantic segmentation and data-driven spatial analysis.</div>
+</div>
+
+## Selected activities
+
+I have contributed to research and survey projects at sites including St Mark's Basilica in Venice, Mantua Cathedral, the Basilica of the Holy Sepulchre in Jerusalem, Sabbioneta and the historic centre of Mantua. Current work includes the PRIN 2022 ACROSS project on static and dynamic accessibility databases for historic urban contexts, and HYMantovalley, where I contribute to 3D UAS environmental monitoring and GIS/BIM integration for sustainable planning.
+
+Alongside research, I teach in the School of Architecture, Urban Planning and Construction Engineering at Politecnico di Milano. I also contribute to international teaching and training activities in digital survey and heritage documentation, including the SCANNER summer school on the stone bridges of Pogoni, Greece, and invited teaching activities in Brazil.
+
+<p class="home-links"><a class="btn btn--primary" href="/publications/">Publications</a> <a class="btn btn--inverse" href="/cv/">Curriculum vitae</a></p>
 
 
 <!--
