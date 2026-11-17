@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publicationsV2/
+permalink: /publications/
 author_profile: true
 redirect_from:
-  - /resume
+  - /publicationsV2/
 ---
 
 {% include base_path %}
@@ -12,7 +12,21 @@ redirect_from:
 ## Journal Papers
 * * *
 
+### 2026
+
+* **A Federated HBIM Workflow for Complex Heritage Conservation: Data Integration, Automation, and Construction-Phase Support for the Floor of the Holy Sepulchre Basilica.** - Treccani, D., Rosignoli, O., Fregonese, L. - *Heritage*, 9(8), 307.
+
+* **Advancements in portable mobile mapping system point-cloud classification: a user-centric comparison of open-source and commercial machine learning and deep learning solutions.** - Previtali, M., Treccani, D., Garramone, M., Adami, A., Scaioni, M. - *Applied Geomatics*, 18, 44.
+
+### 2025
+
+* **Automatic Detection of Podotactile Pavements in Urban Environments Through a Deep Learning-Based Approach on MLS/HMLS Point Clouds.** - Tsiranidou, E., Treccani, D., Adami, A., Fernández, A., Díaz-Vilariño, L. - *ISPRS International Journal of Geo-Information*, 14(12), 492.
+
+* **Percorsi accessibili per aree urbane storiche: calcolo di caratteristiche e vettorializzazione da nuvole di punti.** - Treccani, D., Díaz-Vilariño, L., Adami, A. - *Bollettino della Società Italiana di Fotogrammetria e Topografia*, 2, 25-32.
+
 ### 2024
+
+* **Approccio informativo per il restauro del pavimento della Basilica del Santo Sepolcro a Gerusalemme.** - Adami, A., Cardinali, M., Croveri, P., Della Torre, S., Fregonese, L., Helder, J. M., Moioli, R., Rosignoli, O., Taffurelli, L., Treccani, D. - *INTRECCI*, 5, 5-23.
 
 * **Drones and Real-Time Kinematic Base Station Integration for Documenting Inaccessible Ruins: A Case Study Approach.** - Treccani, D., Adami, A., Fregonese, L. - Drones 8, no. 6: 268. 
 [Link](https://doi.org/10.3390/drones8060268)
@@ -30,6 +44,13 @@ redirect_from:
   
 ## Conference papers
 * * *
+### 2025
+
+* **High-Resolution Photogrammetric Survey of a Romanesque Mosaic Floor: A Comparative Analysis of UAS and a Custom-Built Acquisition System.** - Fazion, B., Treccani, D., Adami, A., Fregonese, L. - IMEKO TC26 International Conference on Metrology for Archaeology and Cultural Heritage.
+* **Integration of Diverse Geomatics Backgrounds for the Documentation of Cultural Heritage. A Summer School on Pogoni's Stone Bridges.** - Adami, A., Bellos, K., Iliodromitis, A., Pagounis, V., Anastasiou, D., Papaioannou, G., Tsioukas, V., Treccani, D. - *International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*.
+* **Digitizing Physical Accessibility in Urban Scenes: From Point Cloud Processing to GIS-Based Analysis.** - Treccani, D., Getachew, A., Marconcini, S., Adami, A. - *International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*.
+* **Comparative Assessment of Point Cloud Annotation Workflows for Applications in Architectural and Spatial Studies.** - Mazzarotto Braga Figueiredo, L., Pinheiro B. S. Mesquita, S., Treccani, D., Adami, A. - *International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*.
+* **Bringing the Gonzaga Equestrian Heritage to Life: AI-Enhanced VR Storytelling for Cultural Dissemination.** - You, Z., Treccani, D., Adami, A. - *Digital Heritage*.
 ### 2024
 * **Assessing the effectiveness of LiDAR-based apps on Apple devices to survey indoor and outdoor medium sized areas** - Treccani, D., Adami, A., Fregonese, L. - Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-2/W8-2024, 431–438. [Link](https://doi.org/10.5194/isprs-archives-XLVIII-2-W8-2024-431-2024)    - Conference: LowCost 3D Workshop ([Website](https://lc3d.fbk.eu))
 * **HBIM for the structural assessment and repair of historic masonry buildings** - Saiai, A., Adami, A., Borlenghi, P., Treccani, D., Gentile, C. - MATEC Web Conf. Volume 403. [Link](https://doi.org/10.1051/matecconf/202440307013)    - Conference: SUBLime Conference 2024 – Towards the Next Generation of Sustainable Masonry Systems: Mortars, Renders, Plasters and Other Challenges	
