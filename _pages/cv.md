@@ -23,10 +23,10 @@ Education
 
 Work experience
 ======
-* Since 2023: Researcher Full Time
-  * Politecnico di Milano, Department of Architecture Built environment and Construction engineering
-  * Duties includes: teaching at the School of Architecture Urban Planning and Construction Engineering of the Politecnico di Milano, participation to the research and work activities of UNESCO Research Lab at Mantova Campus of Politecnico di Milano
-  * Research Title: Point cloud processing with machine learning algorithms for applications in historic urban areas and environmental landscapes of UNESCO heritage sites.
+* Since 2023: Full-time fixed-term Researcher in Geomatics (CEAR-04/A)
+  * Politecnico di Milano, Department of Architecture, Built Environment and Construction Engineering
+  * Research and teaching in geomatics applied to cultural heritage, urban accessibility, GIS/BIM systems and 3D-data analysis.
+  * Research project: *Point-cloud processing with machine-learning algorithms for applications in historic urban areas and environmental landscapes of UNESCO heritage sites.*
 
 * 2022/2023: Research fellow
   *  Politecnico di Milano, Department of Architecture Built environment and Construction engineering
@@ -40,34 +40,40 @@ Work experience
 
 
   
-<!-- Skills
+Research projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
--->
+* **PRIN 2022 - ACROSS** (2023-2026): *A static and dynamic database for historic urban contexts accessibility*. Research-team member working on 3D geospatial data acquisition and analysis for accessibility evaluation in historic centres.
+* **HYMantovalley** (2023-present): research-team member in the I3 Programme Applied Research Hub. 3D UAS environmental monitoring and GIS/BIM integration supporting sustainable planning.
+* **Holy Sepulchre Basilica floor, Jerusalem** (2020-2024): high-resolution survey, HBIM modelling and automation of model-management processes for conservation.
+* **Arch of Augustus, Aosta** (2020-2024): photogrammetric and laser-scanner surveys, technical training and automated HBIM workflows.
+
+Research service and recognition
+======
+* National Scientific Qualification for Associate Professor, Geomatics (June 2026).
+* Third place ex aequo, *Premio Giovani Autori - Categoria Ricerca*, 66th SIFET National Conference (2025).
+* Guest Editor, LAND special issue *Geodesign and Spatial Data for Inclusive and Accessible Cities: Geomatics, Walkability, and Participatory Urban Planning* (2026-present).
+* Expert Member, CIPA Heritage Documentation; member of CIPA Emerging Professionals, ISPRS, SIFET and AUTeC.
+* Peer reviewer for international journals including ISPRS Journal of Photogrammetry and Remote Sensing, Applied Geomatics, Remote Sensing, Heritage, Sensors and Drones.
 
 Publications
 ======
- See the [dedicated page](publications.md)
+See the [dedicated page](/publications/).
   
 Talks and conferences
 ======
-See the [dedicated page](publications.md)
+See the [dedicated page](/talks/).
 
   
 Teaching
 ======
-*  Teaching (lecturer) for the integrated teaching of TOPOGRAPHY, in the course TOPOGRAPHY AND DIGITAL SURVEY, of the three-year degree course in Building and Construction Engineering of the School of Urban Architecture and Construction Engineering of the Politecnico di Milano. (academic years 2023/2024 and 2024/2025)
-*  Teaching (lecturer) for the integrated teaching of REPRESENTATION TECHNIQUES, in the course LABORATORY OF ARCHITECTURAL DESIGN 1, of the three-year degree course in Architecture Design of the School of Architecture Urban Planning and Construction Engineering of the Politecnico di Milano. (academic years 2023/2024 and 2024/2025)
-*  Teaching assistance and tutoring activities in the courses ‘Advanced Survey Techniques’, ‘Rilievo dell'architettura and ‘Advanced survey and representation techniques’ of School of Architecture Urban Planning Construction Engineering of the Politecnico di Milano. (years from 2019 to 2023) 
+* Lecturer, **Techniques of Representation**, integrated course in Architectural Design Studio 1, BSc in Architectural Design, Politecnico di Milano (2023/2024-2025/2026).
+* Lecturer, **Topography**, integrated course in Topography and Digital Survey, BSc in Building and Construction Engineering, Politecnico di Milano (2023/2024-2025/2026).
+* Lecturer, **3D Survey and Modelling Techniques for Architecture**, BSc in Architectural Design, Politecnico di Milano (2025/2026).
+* Lecturer, international SCANNER summer school, *Documentation and Promotion of Stone Bridges of Greece* (2024 and 2025); invited teaching activities at Brazilian universities (2026).
 
 Training activities and certificates
 ======
-* UAS Remote Pilot Certificate of Competence, categories A1, A2, A3 (valid until 2027)
+* UAS Remote Pilot Certificate of Competence, Open A1-A2-A3 and STS categories
 * Rhino.Inside.Revit Level 2 Online Workshop - participant (2021)
 * Revit Architecture Essentials Course and Revit MEP Course - participant (2021)
 * Practical Introduction to Artificial Intelligence Course - participant (2021)
