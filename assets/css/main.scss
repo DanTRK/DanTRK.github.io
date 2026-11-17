@@ -39,3 +39,38 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Personal refinements */
+.page__content > p:first-of-type {
+  font-size: 1.12em;
+  line-height: 1.8;
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.research-grid > div {
+  padding: 1.15rem;
+  border: 1px solid #d9e1e5;
+  border-radius: 4px;
+  background: #f7fafb;
+  line-height: 1.55;
+}
+
+.research-grid strong {
+  display: block;
+  color: #176b87;
+  margin-bottom: .3rem;
+}
+
+.home-links {
+  margin: 2rem 0 1rem;
+}
+
+.home-links .btn {
+  margin: 0 .45rem .45rem 0;
+}
